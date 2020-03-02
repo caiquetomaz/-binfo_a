@@ -1,2 +1,2 @@
-# -binfo_a
+# -2binfo_a
 Repositorio Para Atividades da Etec Basilides
